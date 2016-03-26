@@ -1,0 +1,28 @@
+name: xpdesignr
+favicon: null
+layout_spectrum: 0.14442122168838978
+typography_spectrum: 0.9200715478509665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.707182097947225
+  lightness: 0.5026080443058163
+  saturation: 0.9642676603980362
+  rhythmicContrast: 0.8166719141881913
+purpose: []
